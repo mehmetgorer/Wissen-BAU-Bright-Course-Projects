@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+}
+
+.navbar {
+  background-color: lightblue;
+  padding: 2px;
+
+}
+
+ul {
+  list-style-type: none;
+  display: flex;
+  justify-content: center;
+}
+
+li {
+  margin: 10px;
+  text-decoration: none;
+}
+

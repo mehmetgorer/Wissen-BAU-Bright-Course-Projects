@@ -1,0 +1,26 @@
+Bootstrap -5
+
+Bootstrap, biçimlendirme işlemlerinde css, kullanıcı etkileşimlerinde javascript kullanılarak hazırlanmış, öğrenilmesi kolay, uygulanması hızlı, responsive özellikleri güçlü bir frontend framework'tür.
+
+Kullanabilmek için download edilip projeye eklenmesi veya css ve js CDN linklerinin sayfaya bağlanması gerekir.
+
+h1, h2, ...h6 heading taglarini class olarak paragraf gibi elementlerde de kullanabiliriz.
+
+Ayrıca transform, size, weight, color gibi birçok text özelliklerini de class'lar yardımıyla değiştirebiliriz.
+
+Bootstrap renklendirme işlemlerinde birçok standart renk sınıfı belirlemiştir.
+
+primary, secondary, success, warning, danger, info, dark, light gibi.
+
+Bu renkleri text-xxx, bg-xxx, btn-xxx şeklinde birçok yerde kullanabiliyoruz.
+
+
+
+    margin - padding
+    {property}{location} - {size}   
+    margin - m, padding p
+    top -> t, bottom -> b
+    start -> s (left),
+    end   -> e (right)
+    x -> left ve right,
+    y -> top ve bottom

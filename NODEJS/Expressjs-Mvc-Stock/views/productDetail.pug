@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    .col-md-6
+        .card.mt-3     
+            .card-header.text-center
+                h3.card-title #{urun.Name}
+                img.card-img-top(src=`${urun.ImageUrl}` alt=`${urun.Name}` width="200px")
+            .card-body.text-center
+                p.card-text Fiyat : #{urun.Price}
+            .card-footer.text-end
+                

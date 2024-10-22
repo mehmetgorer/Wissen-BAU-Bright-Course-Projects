@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\bin\Debug\net7.0-windows\WinFormsApp.HataKontrolu.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\bin\Debug\net7.0-windows\WinFormsApp.HataKontrolu.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\bin\Debug\net7.0-windows\WinFormsApp.HataKontrolu.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\bin\Debug\net7.0-windows\WinFormsApp.HataKontrolu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\bin\Debug\net7.0-windows\WinFormsApp.HataKontrolu.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\refint\WinFormsApp.HataKontrolu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\WinFormsApp.HataKontrolu.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.HataKontrolu\WinFormsApp.HataKontrolu\obj\Debug\net7.0-windows\ref\WinFormsApp.HataKontrolu.dll

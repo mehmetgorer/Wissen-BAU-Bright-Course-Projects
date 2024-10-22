@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\bin\Debug\net7.0-windows\WinFormsApp.Giris.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\bin\Debug\net7.0-windows\WinFormsApp.Giris.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\bin\Debug\net7.0-windows\WinFormsApp.Giris.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\bin\Debug\net7.0-windows\WinFormsApp.Giris.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\bin\Debug\net7.0-windows\WinFormsApp.Giris.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\refint\WinFormsApp.Giris.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\WinFormsApp.Giris.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Giris\obj\Debug\net7.0-windows\ref\WinFormsApp.Giris.dll

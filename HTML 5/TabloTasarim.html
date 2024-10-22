@@ -1,0 +1,125 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tablo ile Tasarım</title>
+</head>
+
+<body>
+    <h2>Table kullanarak sayfa tasarımı</h2>
+    <p>
+        Table elementi ile sayfamızı satır ve sütunlara bölerek, verilerimizi veya resimlerimizi daha düzenli bir
+        şekilde sayfaya yerleştirebiliriz.
+    </p>
+    <p>
+        Satırları <b>tr</b> ile, satır içindeki sütunları <b>td</b> ile ekleyebiliyoruz.
+    </p>
+    <p>
+        cellspacing attribute ile hücreler arası boşlukları (margin gibi), cellpadding ile hücre içindeki verilerin
+        çerçevelere uzaklıklarını (padding) belirleyebiliyoruz.
+    </p>
+    <p>
+        Genel olarak bir tabloyu başlık (thead) ve gövde (tbody) şeklinde 2 bölüme ayırabiliriz.
+    </p>
+    <p>
+        Tablolarda daha ayrıntılı tasarım yapabilmek için kolon veya satır düzeyinde istediğimiz sayıda hücreyi
+        birleştirebiliriz.<br>
+        <b>colspan="adet"</b> ile istediğimiz adet kolonu yan yana (sağa doğru) birleştirirken, <b>rowspan="adet"</b>
+        ile kolon düzeyinde istediğimiz adet satır hücresini aşağıya doğru birleştiririz.<br>
+        Birleştirme sonrası sağda veya aşağıda kalan fazlalık hücreler tasarımı bozacaktır. Bunları iptal ederek tablo
+        tasarımını yeniden düzenleriz.
+    </p>
+    <h3>Birleştirme Kriterleri</h3>
+    <p>
+        2 + 3 + 4 birleşsin,    (colspan)<br>
+        9 + 13 birleşsin,       (rowspan)<br>
+        7 + 11 + 15 birleşsin.  (rowspan)
+    </p>
+    <hr>
+    <table border="1" width="100%" cellpadding="10">
+        <thead>
+                <caption><font size="5">Satır ve Sütun Birleştirme</font></caption>
+        </thead>
+        <tbody>
+            <tr align="center">
+                <td>1</td>
+                <td colspan="3" bgcolor="lightblue">2-3-4</td>
+                <!-- <td>3</td>
+                <td>4</td> -->
+            </tr>
+            <tr align="center">
+                <td>5</td>
+                <td>6</td>
+                <td rowspan="3" bgcolor="yellow">7</td>
+                <td>8</td>
+            </tr>
+            <tr align="center">
+                <td rowspan="2" bgcolor="orange">9-13</td>
+                <td>10</td>
+                <!-- <td>11</td> -->
+                <td>12</td>
+            </tr>
+            <tr align="center">
+                <!-- <td>13</td> -->
+                <td>14</td>
+                <!-- <td>15</td> -->
+                <td>16</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <hr>
+    <br>
+    <table width="400" height="200" border="3" align="center" cellspacing="5" cellpadding="20">
+        <thead>
+            <caption>
+                <font face="Verdana" size="5">Genel Üst Başlık</font>
+            </caption>
+            <caption align="bottom">
+                <font face="Verdana" size="4">Genel Alt Başlık</font>
+            </caption>
+            <tr bgcolor="lightblue">
+                <th>Başlık-1</th>
+                <th>Başlık-2</th>
+                <th>Başlık-3</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr align="center">
+                <td colspan="2" bgcolor="#FF0000">1.1 + 1.2</td>
+                <!-- <td bgcolor="#0000FF">1.2</td> -->
+                <td bgcolor="#00FF00">1.3</td>
+            </tr>
+            <tr align="center">
+                <td bgcolor="#FF6789">2.1</td>
+                <td bgcolor="#3579FF">2.2</td>
+                <td rowspan="2" bgcolor="#56FF89">2.3 + 3.3</td>
+            </tr>
+            <tr align="center">
+                <td bgcolor="navy">3.1</td>
+                <td bgcolor="lightgray">3.2</td>
+                <!-- <td bgcolor="aqua">3.3</td> -->
+            </tr>
+        </tbody>
+
+    </table>
+
+    <br><br>
+    <h2>Renk Verme</h2>
+    <p>
+        Renkleri İngilizce isimleriyle verebildiğimiz gibi (Red, Green, Blue, ...), başına # sembolü getirerek
+        Hexadecimal (16'lı sayı sistemi) olarak RGB sistemine uygun bir şekilde verebiliriz.
+    </p>
+    <p>
+        Hexadecimal Sayı Sistemi 16 sayıdan oluşur:<br>
+        0, 1, 2, ... 9, A, B, C, D, E, F
+        #000000 -> Siyah - Black
+        #FFFFFF -> Beyaz - White
+        #FF0000 -> Kırmızı - Red
+    </p>
+
+</body>
+
+</html>

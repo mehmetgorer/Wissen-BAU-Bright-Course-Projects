@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>External Css</title>
+    <!-- 
+        External Css (Harici bir Css dosyası ile)
+        - .css uzantılı ayrı bir dosya oluşturularak Css tanımları bu dosya içinde yapılır.
+        - İhtiyaç duyulan sayfalarda head bölümüde link kullanılarak sayfa ile ilişkilendirilir.
+        - Html kodları ile Css kodlarının tam olarak birbirinden ayrılmasını sağlar.
+        - @import ile de Css dosyası sayfaya bağlanabilir. Hatta tarayıcılar link kullanımına göre yükleme önceliğini @import komutuna verirler. Ancak çok eski versiyon tarayıcılarda çalışmayabilir.
+    -->
+<!-- <link rel="stylesheet" href="Sablon.css"> -->
+<style>
+    @import "Sablon.css";
+</style>
+</head>
+<body>
+    <div id="body">
+        <div id="header">
+                header
+        </div>
+        <div id="topmenu">
+            top menu
+        </div>
+        <div id="nav">
+            nav
+        </div>
+        <div id="main">
+            main content
+        </div>
+        <div id="aside">
+            <div id="aside1" class="aside">aside-1</div>
+            <div id="aside2" class="aside">aside-2</div>
+            <div id="aside3" class="aside">aside-3</div>
+        </div>
+        <div id="footer"><small>&copy;Copyright Bright Full Stack 2023 -footer</small></div>
+    </div>
+</body>
+</html>

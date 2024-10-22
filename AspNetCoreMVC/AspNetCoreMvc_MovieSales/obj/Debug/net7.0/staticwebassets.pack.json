@@ -1,0 +1,105 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\AspNetCoreMvc_MovieSales.bundle.scp.css",
+      "PackagePath": "staticwebassets\\AspNetCoreMvc_MovieSales.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\Barbie.jpg",
+      "PackagePath": "staticwebassets\\images\\Barbie.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\BlueBeetle.jpg",
+      "PackagePath": "staticwebassets\\images\\BlueBeetle.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\CehennemMelekleri.jpg",
+      "PackagePath": "staticwebassets\\images\\CehennemMelekleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\Doru.jpg",
+      "PackagePath": "staticwebassets\\images\\Doru.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\Efsunlu3.jpg",
+      "PackagePath": "staticwebassets\\images\\Efsunlu3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\GranTurismo.jpg",
+      "PackagePath": "staticwebassets\\images\\GranTurismo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\GucYuzukleri.jpg",
+      "PackagePath": "staticwebassets\\images\\GucYuzukleri.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\Hulk.webp",
+      "PackagePath": "staticwebassets\\images\\Hulk.webp"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\cinema1.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\cinema2.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\images\\cinema3.jpg",
+      "PackagePath": "staticwebassets\\images\\cinema3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\mehme\\Desktop\\Projects B\\AspNetCoreMVC\\AspNetCoreMvc_MovieSales\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.AspNetCoreMvc_MovieSales.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.AspNetCoreMvc_MovieSales.props",
+      "PackagePath": "build\\AspNetCoreMvc_MovieSales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.AspNetCoreMvc_MovieSales.props",
+      "PackagePath": "buildMultiTargeting\\AspNetCoreMvc_MovieSales.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.AspNetCoreMvc_MovieSales.props",
+      "PackagePath": "buildTransitive\\AspNetCoreMvc_MovieSales.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

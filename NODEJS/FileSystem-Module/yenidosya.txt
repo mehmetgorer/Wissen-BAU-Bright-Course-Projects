@@ -1,0 +1,1 @@
+Dosya yoksa yeni oluşturur, varsa mevcut dataya ekleme yapar.Bu data da eski içeriğe eklenir.

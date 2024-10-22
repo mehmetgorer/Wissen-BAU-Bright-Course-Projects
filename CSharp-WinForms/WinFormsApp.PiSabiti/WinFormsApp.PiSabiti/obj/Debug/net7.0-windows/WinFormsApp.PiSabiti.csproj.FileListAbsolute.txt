@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\bin\Debug\net7.0-windows\WinFormsApp.PiSabiti.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\bin\Debug\net7.0-windows\WinFormsApp.PiSabiti.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\bin\Debug\net7.0-windows\WinFormsApp.PiSabiti.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\bin\Debug\net7.0-windows\WinFormsApp.PiSabiti.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\bin\Debug\net7.0-windows\WinFormsApp.PiSabiti.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\refint\WinFormsApp.PiSabiti.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\WinFormsApp.PiSabiti.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.PiSabiti\WinFormsApp.PiSabiti\obj\Debug\net7.0-windows\ref\WinFormsApp.PiSabiti.dll

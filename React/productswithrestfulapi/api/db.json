@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "IPhone 14",
+      "price": 60000,
+      "stock": 22,
+      "category": "Telefon"
+    },
+    {
+      "id": 2,
+      "name": "Lenovo i7",
+      "price": 40000,
+      "stock": 33,
+      "category": "Bilgisayar"
+    },
+    {
+      "name": "Canon Yazıcı",
+      "price": "9000",
+      "stock": "30",
+      "category": "Yazıcı",
+      "id": 3
+    },
+    {
+      "name": "Vestel Venüs",
+      "price": "21999",
+      "stock": "36",
+      "category": "Telefon",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "name": "HP Laserjet",
+      "price": 8600,
+      "stock": 22,
+      "category": "Yazıcı"
+    }
+  ]
+}

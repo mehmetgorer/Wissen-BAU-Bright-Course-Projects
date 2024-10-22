@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Console.CSharp.Intro/1.0.0": {
+        "runtime": {
+          "Console.CSharp.Intro.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Console.CSharp.Intro/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

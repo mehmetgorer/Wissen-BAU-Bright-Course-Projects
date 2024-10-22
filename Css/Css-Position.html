@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Position</title>
+    <style>
+        /* position : static, relative, absolute, fixed, sticky  */
+        /* static : elementler normal akış içerisinde konum alırlar. */
+        /* relative : elementler bulundukları konumdan itibaren akışı bozmadan 4 yönden hareket edebilirler. */
+        /* absolute : bu özelliği alan element normal akıştan çıkar, diğerleri onu görmezler. */
+        /* - Default olarak sayfanın üstüne (body) göre hareket eder. Çünkü body etiketinin default olarak relative özelliği vardır. */
+        /* - Eğer farklı bir elemente relative özelliği verirsek, absolute özelliği verilen element ona göre hareket edecektir. */
+        .box {
+            width: 150px;
+            height: 150px;
+            margin: 10;
+        }
+        #box1 {
+            /* position:static; normal akış kuralları geçerli, yani margin değerleri verebiliyoruz. */
+            background-color: maroon;
+            position: relative;
+        }
+        #box2 {
+            background-color: yellow;
+            /* position: relative; */
+            position: absolute;
+            top: 50px;
+            left: 50px;
+            z-index: 1;  /*z-index : pozitif olursa element öne getirilir, negatif olursa arka planda kalır. */
+        }
+        #box3 {
+            background-color: rgb(0, 109, 128);
+        }
+    </style>
+</head>
+<body>
+    <div id="box1" class="box">Box-1
+         <div id="box2" class="box">Box-2</div>   
+    </div>
+
+    <div id="box3" class="box">Box-3</div>
+</body>
+</html>

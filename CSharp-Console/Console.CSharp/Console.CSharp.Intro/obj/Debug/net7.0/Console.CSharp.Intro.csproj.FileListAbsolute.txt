@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\bin\Debug\net7.0\Console.CSharp.Intro.exe
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\bin\Debug\net7.0\Console.CSharp.Intro.deps.json
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\bin\Debug\net7.0\Console.CSharp.Intro.runtimeconfig.json
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\bin\Debug\net7.0\Console.CSharp.Intro.dll
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\bin\Debug\net7.0\Console.CSharp.Intro.pdb
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.AssemblyInfo.cs
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.dll
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\refint\Console.CSharp.Intro.dll
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.pdb
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\Console.CSharp.Intro.genruntimeconfig.cache
+C:\VS-Net-2022\Console\Console.CSharp\Console.CSharp.Intro\obj\Debug\net7.0\ref\Console.CSharp.Intro.dll

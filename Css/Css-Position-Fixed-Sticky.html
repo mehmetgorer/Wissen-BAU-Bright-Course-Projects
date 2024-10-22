@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Position</title>
+    <style>
+        /* position : static, relative, absolute, fixed, sticky  */
+        /* fixed : Element normal akıştan çıkar. Elementin sayfanın üstünde veya altında scrollbar'dan etkilenmeden sabit pozisyonda kalmasını sağlar. */
+        /* sticky : scroll bardan yukarıya istenilen mesafeye kadar relative gibi davranır, sonra fixed gibi asılı kalır. */
+        body {
+            margin:0;
+            height: 2500px;
+        }
+        .box {
+            height: 30px;
+            margin-bottom: 10px;
+            color:white
+        }
+        #box1 {
+            background-color: maroon;
+            position:fixed;
+            top:0px;  /*görünür syfanın top değerini sıfırlıyoruz. */
+            /*top: 130px; dinamik olarak scroll hareket ettikçe ekranda görünen sayfanın üstten 130px konumunda sabit kalıyor. */
+            width:100%;
+            z-index: -1;
+        }
+        #box2 {
+            background-color: orange;
+            margin-top:40px;
+        }
+        #box3 {
+            background-color: rgb(0, 109, 128);
+            position:fixed;
+            bottom:0;
+            /* width:100%; */
+            right:0;
+        }
+        .sticky {
+            position: sticky;
+            top: 120px;
+        }
+    </style>
+</head>
+<body>
+    <div id="box1" class="box">Header     
+    </div>
+    <div id="box2" class="box">Content</div>  
+    <div id="box3" class="box">Footer</div>
+    <br><br>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit esse soluta beatae quod, tempore assumenda iure ex saepe omnis cum maiores totam cumque, laudantium ratione est quisquam. Harum, unde quod. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem odio ratione neque totam veritatis sequi beatae blanditiis eius accusantium, voluptatum cumque doloribus impedit harum maxime? Asperiores neque libero est eligendi!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit esse soluta beatae quod, tempore assumenda iure ex saepe omnis cum maiores totam cumque, laudantium ratione est quisquam. 
+        <h3 class="sticky" style="background-color: aqua;">Harum, unde quod. Lorem, ipsum dolor sit amet</h3> consectetur adipisicing elit. Autem odio ratione neque totam veritatis sequi beatae blanditiis eius accusantium, voluptatum cumque doloribus impedit harum maxime? Asperiores neque libero est eligendi!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit esse soluta beatae quod, tempore assumenda iure ex saepe omnis cum maiores totam cumque, laudantium ratione est quisquam. Harum, unde quod. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem odio ratione neque totam veritatis sequi beatae blanditiis eius accusantium, voluptatum cumque doloribus impedit harum maxime? Asperiores neque libero est eligendi!</p>
+    <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Odit esse soluta beatae quod, tempore assumenda iure ex saepe omnis cum maiores totam cumque, <h3 class="sticky" style="background-color: orange;">laudantium ratione est quisquam.</h3> Harum, unde quod. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Autem odio ratione neque totam veritatis sequi beatae blanditiis eius accusantium, voluptatum cumque doloribus impedit harum maxime? Asperiores neque libero est eligendi!</p>
+</body>
+</html>

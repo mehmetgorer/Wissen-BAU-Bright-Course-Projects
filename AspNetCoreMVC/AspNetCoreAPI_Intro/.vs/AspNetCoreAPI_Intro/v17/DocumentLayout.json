@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\controllers\\citycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\views\\city\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:repositories\\countryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:interfaces\\icountryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:controllers\\countriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:repositories\\cityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:controllers\\citiescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:interfaces\\icityrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:data\\citydbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoreapi_intro\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{326233E6-718A-46C5-89B1-EDF95B31CDA6}|AspNetCoreAPI_Intro.csproj|solutionrelative:entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\views\\city\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\views\\city\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20FADF98-79BB-4CFB-96EA-0433DC15CE4F}|..\\AspNetCoreMvcWithAPI\\AspNetCoreMvcWithAPI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcoremvcwithapi\\models\\cityviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:55:42.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\appsettings.json",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T22:55:01.025Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Repositories\\CountryRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CountryRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Repositories\\CountryRepository.cs",
+              "RelativeToolTip": "Repositories\\CountryRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAD4vxIAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ICountryRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Interfaces\\ICountryRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICountryRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Interfaces\\ICountryRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICountryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Country.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Entities\\Country.cs",
+              "RelativeDocumentMoniker": "Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Entities\\Country.cs",
+              "RelativeToolTip": "Entities\\Country.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CountriesController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Controllers\\CountriesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CountriesController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Controllers\\CountriesController.cs",
+              "RelativeToolTip": "Controllers\\CountriesController.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAtwBUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.476Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CitiesController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Controllers\\CitiesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CitiesController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Controllers\\CitiesController.cs",
+              "RelativeToolTip": "Controllers\\CitiesController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CityViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Models\\CityViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Models\\CityViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Models\\CityViewModel.cs",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Models\\CityViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Program.cs",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CityController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Controllers\\CityController.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Controllers\\CityController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Controllers\\CityController.cs",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Controllers\\CityController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACUAAABjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Index.cshtml",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAkwB4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T22:51:58.514Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Repositories\\CityRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\CityRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Repositories\\CityRepository.cs",
+              "RelativeToolTip": "Repositories\\CityRepository.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAowBwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "Entities\\City.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Entities\\City.cs",
+              "RelativeToolTip": "Entities\\City.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CityDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Data\\CityDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\CityDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Data\\CityDbContext.cs",
+              "RelativeToolTip": "Data\\CityDbContext.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwBAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ICityRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Interfaces\\ICityRepository.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ICityRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreAPI_Intro\\Interfaces\\ICityRepository.cs",
+              "RelativeToolTip": "Interfaces\\ICityRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:51:58.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Create.cshtml",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Create.cshtml",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T22:51:58.518Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Edit.cshtml",
+              "RelativeDocumentMoniker": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCoreMvcWithAPI\\Views\\City\\Edit.cshtml",
+              "RelativeToolTip": "..\\AspNetCoreMvcWithAPI\\Views\\City\\Edit.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T22:51:58.523Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

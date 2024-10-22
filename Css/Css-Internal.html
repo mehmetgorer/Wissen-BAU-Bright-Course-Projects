@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Internal Css</title>
+    <!-- 
+        Internal Css (Sayfa içi Style etiketi ile)
+        - Her sayfa için, head bölümünde Style elementinin içinde tanımladığımız Css kullanımıdır. 
+        - Sadece tanımlandığı sayfayı etkiler.
+        - Html kodları ile Css kodlarının birbirinden ayrılmasını sağlar.
+    -->
+    <style type="text/Css">
+        #body {
+            width:100%; background-color:aquamarine; height:470px;padding-top: 1px;
+        }
+        #header {
+            width:98%; height:80px; background-color: lightblue; margin:1%
+        }
+        #topmenu {
+            width:98%; height:40px; background-color: steelblue; margin:1%; margin-bottom: 0px;
+        }
+        #nav {
+            width:22%; height:258px; background-color: lightblue; margin:1%; float:left
+        }
+        #main {
+            width:52%; height:258px; background-color: white; margin:1%; float:left; margin-left: 0; margin-right: 0;
+        }
+        #aside {
+            width:22%; height:258px; background-color: lightblue; margin:1%; float:left;
+        }
+        .aside {
+            background-color: lightgreen; margin:2%; width: 96%; height: 80px;
+        }
+        #footer {
+            clear:both; width:98%; height:30px; background-color: steelblue; margin:1%; margin-bottom: 0px;text-align: center;padding-top: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="body">
+        <div id="header">
+                header
+        </div>
+        <div id="topmenu">
+            top menu
+        </div>
+        <div id="nav">
+            nav
+        </div>
+        <div id="main">
+            main content
+        </div>
+        <div id="aside">
+            <div id="aside1" class="aside">aside-1</div>
+            <div id="aside2" class="aside">aside-2</div>
+            <div id="aside3" class="aside">aside-3</div>
+        </div>
+        <div id="footer"><small>&copy;Copyright Bright Full Stack 2023 -footer</small></div>
+    </div>
+</body>
+</html>

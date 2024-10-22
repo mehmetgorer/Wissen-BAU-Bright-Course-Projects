@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Other Selectors - Seçiciler</title>
+<!-- 
+    Other Selectors
+    - Group Selectors
+    - Attribute Selectors
+    - Pseudo Selectors
+
+    Group Selectors : Belirli bir kapsam içindeki etiketlere ulaşmamızı sağlar.
+
+    *      : Evrensel seçici (tüm etiketleri kapsar.)
+    div, p : tüm div ve tüm p etiketleri
+    div p  : div içindeki tüm p etikeleri
+    div > p : üst etiketi div olan bütün p etiketleri
+    div ~ p : div ile aynı seviyedeki tüm p etiketleri
+    div + p : div etiketinden sonra gelen aynı seviyedeki p etiketi 
+
+    Attribute Selectors : Etiketlerin içindeki nitelikleri (attribute-src, alt, title, style gibi) kullanarak Css tanımlıyoruz.
+    img[title]  : title atribute özelliği olan img etiketleri
+    img[title="Sokak Resimleri"] : title içinde Sokak Resimleri olan img etiketleri
+    img[alt~="ev"] : alt attribute içinde ev kelimesi geçen img etiketleri
+    img[alt^="ev"] : alt attribute içinde ev kelimesi ile başlayan img etiketleri
+    img[title$="resimleri"] : title attribute içindeki bilgi resimleri kelimesi ile biten img etiketleri
+
+    Pseudo Selectors : Html etiketlerinin durumunu kontrol edip sonra css uyguluyoruz.
+    
+    selector:pseudo-class { }
+
+    henüz ziyaret edilmemiş link
+        a:link { color:blue; }
+
+    ziyaret edilmiş link
+        a:visited { color:red; }
+
+    mouse link üzerindeyken
+        a:hover { color:pink; }
+
+    link üzerinde tıklanma anı
+        a:active { color:yellow; }
+
+    mouse ile div üzerine gelindiği anda
+    div:hover { background-color: lightgreen}
+-->
+<style type="text/Css">
+        a:link { color:blue; }
+        a:visited { color:gray; }
+        a:hover { color:green; }
+        a:active { color:red; }
+
+        div:hover { background-color: lightgreen;}
+
+        article:hover p {
+            display: block;
+        }
+
+        article p {
+            display: none;
+            background-color: yellow;
+        }      
+
+        img[title="sokak resimleri"] {
+            width:200px;
+        }
+        img[title~="ev"] {
+            width: 300px;
+        }
+        img[alt$="resimleri"] {
+            border : 2px solid red
+        }
+        div p {
+            font-family: Verdana;
+        }
+        div > p {
+            color:blue;
+        }
+        div ~ p {
+            color:red;
+        }
+        div + p {
+            font-style: italic;
+        }
+        /* div #aside { color: yellow} */
+        /* p .egik { font-weight: bold;} */
+        /* h1, h2, h3 { color:red;} */
+        li:first-child {
+            color:blue;
+            font-weight: bold;
+        }
+        li:last-child {
+            font-weight: bold;
+        }
+        p::first-letter {
+            text-transform: lowercase;
+
+        }
+        p::first-line {
+            font-style: italic;
+            text-transform: capitalize;
+        }
+        h2::after {
+            content: url(../images/favicon.ico);
+        }
+        h2::before {
+            content: url(../images/favicon.ico);
+        }
+</style>
+</head>
+<body>
+    <div id="genel">
+        <h1>Css Selectors</h1>
+        <ol>
+            <li>Html Tags</li>
+            <li>Tag Id's</li>
+            <li>Tag Classes</li>
+        </ol>
+        <div id="tags">
+            <h2>Html Etiketleri</h2>
+            <p id="text1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, quo?</p>
+        </div>
+        <div id="Ids">
+            <h2>Etiket Id'leri</h2>
+            <p id="text2">
+                Lorem ipsum dolor sit <span>amet consectetur adipisicing</span> elit. Iure repellendus quam repudiandae id! Error, recusandae. Enim minima delectus, harum aut, explicabo esse quos natus, odit excepturi in totam fugit vero.
+            </p>
+            <section>
+                <h3>İç içe paragraf</h3>
+                <p id="text3">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+            </section>
+
+        </div>
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Temporibus!
+        </p>
+    </div>
+    <p id="digerText">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius.</p>
+    <br>
+        <a id="ana" href="#">Anasayfa</a>&nbsp;&nbsp;&nbsp;
+        <a id="ilet" href="##">İletişim</a>&nbsp;&nbsp;&nbsp;
+        <a id="hak" href="###">Hakkımızda</a>
+
+    <br>
+    <img src="../images/SokakResmi.jpg" alt="sokak resimleri" title="sokak resimleri">
+    <img src="../images/EvResimleri.jpg" alt="ev resimleri" title="ev resimleri">
+
+    <br><br>
+    <article>
+        <span>paragarafı görmek için mouse ile üzerine gel</span>
+        <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Vitae tenetur ipsam modi cum optio recusandae inventore in accusamus minima, quidem provident. Commodi assumenda distinctio laudantium nihil saepe sit accusantium vero.</p>
+    </article>
+</body>
+</html>

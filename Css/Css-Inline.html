@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Inline</title>
+    <!-- 
+        Inline Css (Satır içi Style attribute ile)
+        - Her html etiketine özel, o elementin style attribute ile tanımladığımız Css kullanımıdır. 
+        - Sadece tanımlandığı elementi etkiler.
+        - Elementi etkileyen aynı Css özelliklerini ezer ve inline Css geçerli kabul edilir.
+    -->
+</head>
+<body>
+    <div style="width:100%; background-color:aquamarine; height:470px;padding-top: 1px;">
+        <div style="width:98%; height:80px; background-color: lightblue; margin:1%">
+                header
+        </div>
+        <div style="width:98%; height:40px; background-color: steelblue; margin:1%; margin-bottom: 0px;">
+            top menu
+        </div>
+        <div style="width:22%; height:258px; background-color: lightblue; margin:1%; float:left">
+            nav
+        </div>
+        <div style="width:52%; height:258px; background-color: white; margin:1%; float:left; margin-left: 0; margin-right: 0;">
+            main content
+        </div>
+        <div style="width:22%; height:258px; background-color: lightblue; margin:1%; float:left;">
+            <div style="background-color: lightgreen; margin:2%; width: 96%; height: 80px;">aside-1</div>
+            <div style="background-color: lightgreen; margin:2%; width: 96%; height: 80px;">aside-2</div>
+            <div style="background-color: lightgreen; margin:2%; width: 96%; height: 80px;">aside-3</div>
+        </div>
+        <div style="clear:both; width:98%; height:30px; background-color: steelblue; margin:1%; margin-bottom: 0px;text-align: center;padding-top: 10px;"><small>&copy;Copyright Bright Full Stack 2023 -footer</small></div>
+    </div>
+</body>
+</html>

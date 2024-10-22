@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Javascript - Html - Document Object Model</title>
+</head>
+<body>
+
+    <h2 id="baslik">Html DOM</h2>
+    <button>xxxxx</button>
+
+    <button onclick="document.getElementById('giris').innerHTML='Tıkladınız...'">Tıklayın</button>
+
+    <p id="giris"></p>
+
+    <p id="sonuc">Tekli Element Bulma</p>
+
+    <div id="icerik" class="egik">Çoklu Element Bulma</div>
+    
+    <ul id="liste1"> 
+        <li class="item">Id'ye göre</li>
+        <li class="item">Class'a göre</li>
+        <li class="item">Tag'e göre</li>
+    </ul>
+
+    <ul id="liste2">
+        <li class="item">Id'ye göre</li>
+        <li class="item">Class'a göre</li>
+        <li class="item">Tag'e göre</li>
+    </ul>
+    <br>
+
+    <br>
+    <div id="result" style="width:250px; height:100px" onmouseover="renklendir()"  onmouseout="renkkaldir()">
+        sonuç listesi
+    </div>
+    <br><br>
+    <button onclick="this.innerHTML=Date()">Tarih getir...</button>
+<br><br><br>
+
+<script>
+    function renklendir(){
+        document.getElementById("result").style.background = "blue";
+    }
+    function renkkaldir(){
+        document.getElementById("result").style.background = "";
+    }
+    //document.getElementById("giris").innerText = "<b>Html elementleri bulma</b>";
+    // document.getElementById("giris").innerHTML = "<b>Html elementleri bulma</b>"; 
+
+</script>
+    <script src="Js-Html-DOM.js"></script>
+</body>
+</html>

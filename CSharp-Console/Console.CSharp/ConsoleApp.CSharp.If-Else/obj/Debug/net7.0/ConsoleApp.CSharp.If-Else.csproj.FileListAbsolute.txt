@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\bin\Debug\net7.0\ConsoleApp.CSharp.If-Else.exe
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\bin\Debug\net7.0\ConsoleApp.CSharp.If-Else.deps.json
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\bin\Debug\net7.0\ConsoleApp.CSharp.If-Else.runtimeconfig.json
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\bin\Debug\net7.0\ConsoleApp.CSharp.If-Else.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\bin\Debug\net7.0\ConsoleApp.CSharp.If-Else.pdb
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.AssemblyInfo.cs
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\refint\ConsoleApp.CSharp.If-Else.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.pdb
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ConsoleApp.CSharp.If-Else.genruntimeconfig.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.If-Else\obj\Debug\net7.0\ref\ConsoleApp.CSharp.If-Else.dll

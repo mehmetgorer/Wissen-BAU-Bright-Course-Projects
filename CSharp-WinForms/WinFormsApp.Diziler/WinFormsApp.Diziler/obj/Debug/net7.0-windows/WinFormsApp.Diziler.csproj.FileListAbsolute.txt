@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\bin\Debug\net7.0-windows\WinFormsApp.Diziler.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\bin\Debug\net7.0-windows\WinFormsApp.Diziler.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\bin\Debug\net7.0-windows\WinFormsApp.Diziler.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\bin\Debug\net7.0-windows\WinFormsApp.Diziler.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\bin\Debug\net7.0-windows\WinFormsApp.Diziler.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\refint\WinFormsApp.Diziler.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\WinFormsApp.Diziler.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Diziler\WinFormsApp.Diziler\obj\Debug\net7.0-windows\ref\WinFormsApp.Diziler.dll

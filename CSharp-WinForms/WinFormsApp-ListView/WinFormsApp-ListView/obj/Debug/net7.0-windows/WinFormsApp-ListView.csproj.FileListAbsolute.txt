@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\bin\Debug\net7.0-windows\WinFormsApp-ListView.exe
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\bin\Debug\net7.0-windows\WinFormsApp-ListView.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\bin\Debug\net7.0-windows\WinFormsApp-ListView.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\bin\Debug\net7.0-windows\WinFormsApp-ListView.dll
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\bin\Debug\net7.0-windows\WinFormsApp-ListView.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp_ListView.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.dll
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\refint\WinFormsApp-ListView.dll
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\WinFormsApp-ListView.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp-ListView\WinFormsApp-ListView\obj\Debug\net7.0-windows\ref\WinFormsApp-ListView.dll

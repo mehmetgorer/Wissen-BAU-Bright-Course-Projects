@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "fetch get data",
+      "author": "ali uçar"
+    },
+    {
+      "title": "axios get data",
+      "author": "neşe sever",
+      "id": 3
+    },
+    {
+      "title": "react hooks",
+      "author": "hasan kaya",
+      "id": 4
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

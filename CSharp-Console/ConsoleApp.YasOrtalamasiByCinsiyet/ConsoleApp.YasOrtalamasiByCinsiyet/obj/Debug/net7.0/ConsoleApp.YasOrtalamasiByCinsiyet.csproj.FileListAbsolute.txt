@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\bin\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.exe
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\bin\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.deps.json
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\bin\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.runtimeconfig.json
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\bin\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.dll
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\bin\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.pdb
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.AssemblyInfo.cs
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.dll
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\refint\ConsoleApp.YasOrtalamasiByCinsiyet.dll
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.pdb
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ConsoleApp.YasOrtalamasiByCinsiyet.genruntimeconfig.cache
+C:\VS-Net-2022\Console\ConsoleApp.YasOrtalamasiByCinsiyet\ConsoleApp.YasOrtalamasiByCinsiyet\obj\Debug\net7.0\ref\ConsoleApp.YasOrtalamasiByCinsiyet.dll

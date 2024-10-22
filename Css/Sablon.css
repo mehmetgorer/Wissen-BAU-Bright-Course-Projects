@@ -1,0 +1,24 @@
+#body {
+    width:100%; background-color:aquamarine; height:470px;padding-top: 1px;
+}
+#header {
+    width:98%; height:80px; background-color: lightblue; margin:1%
+}
+#topmenu {
+    width:98%; height:40px; background-color: steelblue; margin:1%; margin-bottom: 0px;
+}
+#nav {
+    width:22%; height:258px; background-color: lightblue; margin:1%; float:left
+}
+#main {
+    width:52%; height:258px; background-color: white; margin:1%; float:left; margin-left: 0; margin-right: 0;
+}
+#aside {
+    width:22%; height:258px; background-color: lightblue; margin:1%; float:left;
+}
+.aside {
+    background-color: lightgreen; margin:2%; width: 96%; height: 80px;
+}
+#footer {
+    clear:both; width:98%; height:30px; background-color: steelblue; margin:1%; margin-bottom: 0px;text-align: center;padding-top: 10px;
+}

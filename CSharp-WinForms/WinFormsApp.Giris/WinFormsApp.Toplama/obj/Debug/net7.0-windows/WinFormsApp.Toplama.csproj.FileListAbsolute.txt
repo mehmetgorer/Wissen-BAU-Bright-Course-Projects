@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\bin\Debug\net7.0-windows\WinFormsApp.Toplama.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\bin\Debug\net7.0-windows\WinFormsApp.Toplama.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\bin\Debug\net7.0-windows\WinFormsApp.Toplama.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\bin\Debug\net7.0-windows\WinFormsApp.Toplama.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\bin\Debug\net7.0-windows\WinFormsApp.Toplama.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\refint\WinFormsApp.Toplama.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\WinFormsApp.Toplama.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Giris\WinFormsApp.Toplama\obj\Debug\net7.0-windows\ref\WinFormsApp.Toplama.dll

@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\bin\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\bin\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\bin\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\bin\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\bin\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\refint\WinFormsApp.SayiBulmaOyunu.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\WinFormsApp.SayiBulmaOyunu.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.SayiBulmaOyunu\WinFormsApp.SayiBulmaOyunu\obj\Debug\net7.0-windows\ref\WinFormsApp.SayiBulmaOyunu.dll

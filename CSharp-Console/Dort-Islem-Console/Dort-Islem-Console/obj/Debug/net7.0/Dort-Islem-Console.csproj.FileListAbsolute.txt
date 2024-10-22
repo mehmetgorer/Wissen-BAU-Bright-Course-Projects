@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\bin\Debug\net7.0\Dort-Islem-Console.exe
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\bin\Debug\net7.0\Dort-Islem-Console.deps.json
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\bin\Debug\net7.0\Dort-Islem-Console.runtimeconfig.json
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\bin\Debug\net7.0\Dort-Islem-Console.dll
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\bin\Debug\net7.0\Dort-Islem-Console.pdb
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.AssemblyInfo.cs
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.dll
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\refint\Dort-Islem-Console.dll
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.pdb
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\Dort-Islem-Console.genruntimeconfig.cache
+C:\VS-Net-2022\Console\Dort-Islem-Console\Dort-Islem-Console\obj\Debug\net7.0\ref\Dort-Islem-Console.dll

@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Div(Division) ile Sayfa Tasarımı</title>
+</head>
+
+<body>
+<div>
+    <h1>Div ile Sayfa Bölümleme</h1>
+    <p>SEO açısından uzun zamandır sayfa tasarımında ekranımızı bölümlere ayırmak için <del><small>table</small></del>
+        yerine <ins>div</ins> elementlerini kullanıyoruz.</p>
+    <p>
+        Div elementinin temel amaçlarından biri istediğimiz html etiketlerini gruplandırmak ve kolaylıkla
+        biçimlendirmektir.
+    </p>
+    <p>
+        Bir div içine yeni div etiketleri eklenmek istenirse, sonradan açılıp önce kapanmaları gerekir.
+    </p>
+    <p>
+        div elementi block element olup tüm satırı kaplarken, style özelliğinde float değerini left yada right olarak verdiğimizde block özelliğinden inline özelliğe geçip, içindeki değerler kadar yer kaplar ve diğer div'lerin de kayarak yeni bir düzen oluşturmalarına neden olur.
+    </p>
+    <p>
+        div'ler temel olarak alt alta yerleşirken, float özelliği kullanıldıktan sonra sığabildikleri alana yerleşmeye başlarlar. Ancak boş alana sığamadıkları taktirde yine alt satıra yerleşirler.
+    </p>
+    <p>
+        Alttaki bir div elementinin daha önce yapılan float tanımlamalarından etkilenmesini istemiyorsak, clear:both özelliğini kullanmalıyız.
+    </p>
+    <hr>
+    <div style="background-color: #4bc473; color:orangered; float:left">
+        <h4>Ana bölüm (div)</h4>
+        <div style="background-color: yellow; float: left; margin:10px">
+            <h3>div ile gruplandırma</h3>
+        </div>
+        <div style="background-color: blue; color:white; float:right; width: 300px; margin:10px">
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam impedit esse recusandae vel, eius doloribus
+                repudiandae autem obcaecati minus error. Iure eos ullam suscipit sequi porro! Ab provident rerum alias.
+            </p>
+        </div>
+    </div>
+    <div style="clear:both">
+        <p>
+            Lorem ipsum dolor sit amet consectetur adipisicing elit. Porro sint eaque molestiae. Eligendi, cum beatae?
+        </p>
+    </div>
+    <div>
+        <p>
+            Lorem, ipsum dolor sit amet consectetur adipisicing.
+        </p>
+    </div>
+    <br>
+    <div style="width: 300px; height:200px; background-color: yellow; float: left;">
+        <div style="width: 100px; height:100px; background-color: blue; margin:30px">
+        </div>
+    </div>
+    <div style="width: 300px; height:200px; background-color: blue; float:right">
+        <div style="width: 100px; height:100px; background-color: green; margin:30px">
+        </div>
+    </div>
+</div>
+</body>
+
+</html>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp.Giris", "WinFormsApp.Giris\WinFormsApp.Giris.csproj", "{EF9D2FCF-E725-4AE1-991C-6DB65CE71ED3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WinFormsApp.Toplama", "WinFormsApp.Toplama\WinFormsApp.Toplama.csproj", "{F43D8C0F-EDA3-482D-8C88-E2BF217645D8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF9D2FCF-E725-4AE1-991C-6DB65CE71ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF9D2FCF-E725-4AE1-991C-6DB65CE71ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF9D2FCF-E725-4AE1-991C-6DB65CE71ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF9D2FCF-E725-4AE1-991C-6DB65CE71ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F43D8C0F-EDA3-482D-8C88-E2BF217645D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F43D8C0F-EDA3-482D-8C88-E2BF217645D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F43D8C0F-EDA3-482D-8C88-E2BF217645D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F43D8C0F-EDA3-482D-8C88-E2BF217645D8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {407C45BD-7CBD-42FE-A452-CCEE7E5FFA68}
+	EndGlobalSection
+EndGlobal

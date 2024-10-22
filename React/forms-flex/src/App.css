@@ -1,0 +1,79 @@
+.App {
+  text-align: center
+}
+
+.post-body {
+  display: flex;
+  justify-content: center;
+}
+
+.post-form {
+  display: flex;
+  flex-direction: column;
+  width:450px;
+  border: 1px solid;
+  border-radius: 10px;
+  padding: 10px;
+}
+
+.post-label {
+  padding: 10px;
+}
+
+.post-input {
+  padding: 10px;
+  border: 1px solid;
+  border-radius: 10px;
+}
+
+.post-button {
+  margin: 20px;
+  padding: 10px;
+  border: 1px solid blue;
+  border-radius: 10px;
+  background-color: blue;
+  color: white
+}
+
+.post-border {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid;
+  border-radius: 10px;
+  width:300px;
+  padding:4px;
+  margin: 5px;
+}
+
+.post-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+.genel {
+  /* height: 600px; */
+  background-color: burlywood;
+  display: flex;
+  /* flex-direction: row;  */
+  /* default olarak satır bazında yerleştirir.*/
+  /*flex-direction: column; /*sütun bazında yerleştirir.*/
+  justify-content: center;
+  /* justify-content: flex-start; */
+  /* justify-content: flex-end; */
+  /* justify-content: space-around; */
+  /* justify-content: space-between; */
+  /* flex-direction: column; */
+  /* align-items:center; */
+  /* align-items:flex-end;  */
+  flex-wrap: wrap;
+}
+
+.box {
+  width: 100px;
+  height: 100px;
+  background-color: cadetblue;
+  padding: 10px;
+  margin:5px
+}

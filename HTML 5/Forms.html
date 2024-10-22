@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Elementleri</title>
+</head>
+
+<body>
+    <h1>Form Elementlerinin Kullanımı</h1>
+    <p>Sayfa içinde kullanıcıdan alınacak bilgilerin istenilen bir program ortamıyla etkileşime geçmesi için bir
+        <strong>Form</strong> elementi kullanıyoruz.</p>
+    <p>
+        Form elementlerinin büyük bir çoğunluğu <b>input</b> etiketinin altında bulunuyor ve <b>type</b> özelliğini
+        değiştirerek bu elementleri kullanabiliyoruz.
+    </p>
+    <p>
+        Input elementlerine verilecek id değerleri daha çok sayfa içinde css tanımlamalarında kullanılırken, name değerleri ise programlama ortamlarına veri aktarılırken kullanılıyor.
+    </p>
+    <p>
+        <strong>type olarak email</strong> verildiğinde mail standartlarına uygun giriş yapılıp yapılmadığı html tarafından kontrol ediliyor. </p>
+        <p>
+            <strong>Required</strong> özelliği verildiğinde sayfa Submit butonu ile onaylandığında ilgili alanın boş geçilmemesi mutlaka bilgi girişi yapılması için html kullanıcıyı zorluyor.
+        </p>
+        <p>
+            <strong>type="radio"</strong> seçtiğimizde, sadece radio buttonlardan birinin seçilebilmesi için her birine aynı name bilgisinin verilerek bir grup oluşturulması gerekir.
+        </p>
+
+    </p>
+    <hr> <br>
+    <h2>Kullanıcı Girişleri (input)</h2>
+    <form action="/Home/Index">
+        <label for="ad">Adı</label> 
+        <input type="text" id="ad" name="ad" placeholder="adınızı giriniz" required autofocus><br>
+        <label for="soyad">Soyadı</label> 
+        <input type="text" id="soyad" name="soyad" placeholder="soyadınızı giriniz"><br>
+        <label for="mail">Email</label>
+        <input type="email" id="mail"><br>
+        <label for="telefon">Telefon</label>
+        <input type="tel" id="telefon"><br>
+        <label for="adr">Adres</label>
+        <textarea name="adr" id="adr" cols="20" ></textarea><br>
+        <label for="dt">Tarih </label>
+        <input type="datetime-local" id="dt"><br><br>
+        <label for="cns">Cinsiyet</label>
+        <input type="radio" name="cns" value="Erkek" id="cns">Erkek
+        <input type="radio" name="cns" value="Kadın" id="cns" checked>Kadın<br><br>
+        <label for="hobi">Hobiler</label><br>
+        <input type="checkbox" name="hobi" value="Futbol" id="hobi">Futbol
+        <input type="checkbox" name="hobi" value="Sinema" id="hobi">Sinema
+        <input type="checkbox" name="hobi" value="Seyahat" id="hobi">Seyahat<br><br>
+        <label for="kurs">Kurs</label>
+        <select name="kurs" id="kurs">
+            <option value="0">Seçiniz</option>
+            <option value="1">Web Tasarım</option>
+            <option value="2">Full Stack</option>
+            <option value="3">Mobile</option>
+        </select>
+        <br>
+        <label for="sure">Kurs Süresi</label>
+        <input type="number" id="sure" min="1" max="6" value="1">
+        <br><br><br>
+        <input type="submit" value="Kaydet">
+        <input type="reset" value="Temizle">
+    </form>
+</body>
+
+</html>

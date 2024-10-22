@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors - Seçiciler</title>
+<!-- 
+    Html sayfasındaki etiketlere 3 farklı şekilde ulaşabiliriz :
+        1- Html Etiketleri (Tags)
+        2- Etiket Id'leri (Tag Id's)
+        3- Etiket Class'ları (Tag Classes)
+
+    1- Html Etiketleri : Doğal olarak bütün html etiketlerini (tags) seçici (selector) olarak kullanarak kolaylıkla css tanımlayabiliriz.
+    Verdiğimiz özellikler sayfadaki tüm aynı isimdeki etiketlere uygulanacaktır.
+
+    2- Etiket Id'leri : Çok sayıda aynı elementi birbirinden ayırmak için, her birine farklı bir ID özelliği (attribute) tanımlayabiliriz. Bu sayede sadece istediğimiz etikete istediğimiz özellikleri uygulamış oluruz.
+    ID'lere Css tanımlamak için başına # sembolünü getirmeliyiz.
+
+    3- Class seçicileri : Bir html etiketine birden fazla Css vermek veya birden fazla html etiketine aynı özelliği vermek için class seçicilerini kullanıyoruz. Class seçicine Css tanımlamak için başına . (nokta) işareti getiriyoruz.
+
+    Diğer Seçiciler
+    - Group Selectors
+    - Attribute Selectors
+    - Pseudo Selectors
+
+    
+-->
+<style type="text/Css">
+    h1 {
+        color:red;
+    }
+    h2 {
+        color:blue;
+    }
+    p {
+        font-family: Verdana;
+    }
+    ol {
+        list-style: none;
+    }
+    h1, h2 {
+        font-family: Comic Sans Ms;
+    }
+    span {
+        font-style: italic;
+    }
+    div {
+        background-color: lightblue;
+    }
+    #tags {
+        background-color: aqua;
+    }
+    #Ids {
+        background-color: skyblue;
+    }
+    #text1 {
+        font-style: italic;
+    }
+    p.uyari {
+        font-weight: bold;
+    }
+    p.onemli {
+        font-size: x-large;
+    }
+    .uyari {
+        font-weight: bold;
+    }
+    .onemli {
+        font-size: x-large;
+    }
+    .uyari.onemli {
+        color:red
+    }
+    .aktif {
+        color:blue;
+        font-style: italic;
+    }
+    #digerText{
+        background-color: lightcoral;
+    }
+</style>
+</head>
+<body>
+    <div id="genel">
+        <h1>Css Selectors</h1>
+        <ol class="uyari">
+            <li class="aktif">Html Tags</li>
+            <li>Tag Id's</li>
+            <li>Tag Classes</li>
+        </ol>
+        <div id="tags">
+            <h2>Html Etiketleri</h2>
+            <p id="text1">Lorem ipsum dolor sit amet consectetur, adipisicing elit. Harum, quo?</p>
+        </div>
+        <div id="Ids">
+            <h2>Etiket Id'leri</h2>
+            <p id="text2">
+                Lorem ipsum dolor sit <span>amet consectetur adipisicing</span> elit. Iure repellendus quam repudiandae id! Error, recusandae. Enim minima delectus, harum aut, explicabo esse quos natus, odit excepturi in totam fugit vero.
+            </p>
+            <p id="text3">Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+        </div>
+    </div>
+    <p id="digerText" class="uyari onemli">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Eius.</p>
+</body>
+</html>

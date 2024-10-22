@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\bin\Debug\net7.0\ConsoleApp.CSharp.DataTypes.exe
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\bin\Debug\net7.0\ConsoleApp.CSharp.DataTypes.deps.json
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\bin\Debug\net7.0\ConsoleApp.CSharp.DataTypes.runtimeconfig.json
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\bin\Debug\net7.0\ConsoleApp.CSharp.DataTypes.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\bin\Debug\net7.0\ConsoleApp.CSharp.DataTypes.pdb
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.AssemblyInfo.cs
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\refint\ConsoleApp.CSharp.DataTypes.dll
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.pdb
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ConsoleApp.CSharp.DataTypes.genruntimeconfig.cache
+C:\VS-Net-2022\Console\Console.CSharp\ConsoleApp.CSharp.DataTypes\obj\Debug\net7.0\ref\ConsoleApp.CSharp.DataTypes.dll

@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\bin\Debug\net7.0\ConsoleApp.KdvHesabi.exe
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\bin\Debug\net7.0\ConsoleApp.KdvHesabi.deps.json
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\bin\Debug\net7.0\ConsoleApp.KdvHesabi.runtimeconfig.json
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\bin\Debug\net7.0\ConsoleApp.KdvHesabi.dll
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\bin\Debug\net7.0\ConsoleApp.KdvHesabi.pdb
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.AssemblyInfo.cs
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.dll
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\refint\ConsoleApp.KdvHesabi.dll
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.pdb
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ConsoleApp.KdvHesabi.genruntimeconfig.cache
+C:\VS-Net-2022\Console\ConsoleApp.KdvHesabi\ConsoleApp.KdvHesabi\obj\Debug\net7.0\ref\ConsoleApp.KdvHesabi.dll

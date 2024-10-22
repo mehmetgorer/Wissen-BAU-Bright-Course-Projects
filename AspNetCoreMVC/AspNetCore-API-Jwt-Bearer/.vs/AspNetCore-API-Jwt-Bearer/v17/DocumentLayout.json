@@ -1,0 +1,345 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\aspnetcore-mvc-jwt-bearer.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\controllers\\employeecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\models\\employeeviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{724A51DF-CEA4-4A89-A402-E598BDEC8007}|..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-mvc-jwt-bearer\\views\\employee\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:dtos\\employeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:repositories\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:services\\employeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:services\\iemployeeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:repositories\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\aspnetcore-api-jwt-bearer\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB35AAD-42FD-43F4-A808-BFF898A7483D}|AspNetCore-API-Jwt-Bearer.csproj|solutionrelative:entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AspNetCore-Mvc-Jwt-Bearer",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\AspNetCore-Mvc-Jwt-Bearer.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-21T01:16:52.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T01:16:07.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\appsettings.json",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\appsettings.json",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T01:15:57.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\WeatherForecast.cs",
+              "RelativeToolTip": "WeatherForecast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T23:00:31.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Properties\\launchSettings.json",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T23:00:10.439Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:59:11.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Views\\Employee\\Index.cshtml",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Views\\Employee\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Views\\Employee\\Index.cshtml",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Views\\Employee\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T22:56:12.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Models\\EmployeeViewModel.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Models\\EmployeeViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Models\\EmployeeViewModel.cs",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Models\\EmployeeViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployeeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\EmployeeController.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\EmployeeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\EmployeeController.cs",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Controllers\\EmployeeController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.962Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAABkAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Program.cs",
+              "RelativeDocumentMoniker": "..\\AspNetCore-Mvc-Jwt-Bearer\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-Mvc-Jwt-Bearer\\Program.cs",
+              "RelativeToolTip": "..\\AspNetCore-Mvc-Jwt-Bearer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-01T23:00:26.668Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.968Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:13.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "EmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\EmployeeService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Services\\EmployeeService.cs",
+              "RelativeToolTip": "Services\\EmployeeService.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAxwBcAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IEmployeeService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Services\\IEmployeeService.cs",
+              "RelativeDocumentMoniker": "Services\\IEmployeeService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Services\\IEmployeeService.cs",
+              "RelativeToolTip": "Services\\IEmployeeService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "EmployeeDto.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\EmployeeDto.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\DTOs\\EmployeeDto.cs",
+              "RelativeToolTip": "DTOs\\EmployeeDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Repositories\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\EmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:12.985Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Repositories\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repositories\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Repositories\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Repositories\\IEmployeeRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:13.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "Entities\\Employee.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\AspNetCore-API-Jwt-Bearer\\Entities\\Employee.cs",
+              "RelativeToolTip": "Entities\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T22:56:13.152Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

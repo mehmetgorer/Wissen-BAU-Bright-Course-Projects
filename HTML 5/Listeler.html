@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listeleme Şekilleri</title>
+</head>
+<body>
+    <h1 id="listeleme">Listeleme Şekilleri</h1>
+    <a href="#sirali"><h2>1-Sıralı listeler</h2></a>
+    <a href="#sirasiz"><h2>2-Sırasız listeler</h2></a>
+    <a href="#yonlendirme"><h2>3-Yönlendirme</h2></a>
+    <br>
+    <h2 id="sirali">Sıralı Listeler</h2>
+    <p>
+        Sıralı listeler oluşturmak için html <strong>ol (ordered list)</strong> etiketini kullanıyoruz. Listenin her bir elemanını <em>li (list item)</em> etiketi ile ve listeleme sembolünü (numaralar, harfler, romen rakamları gibi) de <em>type attribute</em> ile belirliyoruz. Sıralamanın kaçıncı değerden başlayacağını da istersek <b>Start</b> ile değiştirebiliyoruz.
+    </p>
+    <h3>Eğitimlerimiz</h3>
+    <ol>
+        <li>Yazılım Eğitimleri</li>
+        <ol type="a">
+            <li>C#.Net Eğitimi</li>
+            <li>Asp.Net Eğitimi</li>
+            <li>NodeJs Eğitimi</li>
+        </ol>
+        <li>Veritabanı Eğitimleri</li>
+        <ol type="a" start="4">
+            <li>MS-Sql Server</li>
+            <ol type="i">
+                <li>T-Sql</li>
+            </ol>
+            <li>MY-Sql Server</li>
+            <li>Oracle Server</li>
+            <ol type="i">
+                <li>PL-Sql</li>
+            </ol>
+        </ol>
+        <li>Mobile Eğitimleri</li>
+    </ol>
+
+    <br>
+    <h2 id="sirasiz">Sırasız Listeler</h2>
+    <p>
+        Sırasız listeler oluşturmak için html <strong>ul (unordered list)</strong> etiketini kullanıyoruz. Listenin her bir elemanını <em>li (list item)</em> etiketi ile ve listeleme sembolünü (disc, square, circle gibi) de <em>type attribute</em> ile belirliyoruz. 
+    </p>
+    <h3>Eğitimlerimiz</h3>
+    <ul type="disc">
+        <li>Yazılım Eğitimleri</li>
+        <ul type="circle">
+            <li>C#.Net Eğitimi</li>
+            <li>Asp.Net Eğitimi</li>
+            <li>NodeJs Eğitimi</li>
+        </ul>
+        <li>Veritabanı Eğitimleri</li>
+        <ul type="circle">
+            <li>MS-Sql Server</li>
+            <ul type="square">
+                <li>T-Sql</li>
+            </ul>
+            <li>MY-Sql Server</li>
+            <li>Oracle Server</li>
+            <ul type="square">
+                <li>PL-Sql</li>
+            </ul>
+        </ul>
+        <li>Mobile Eğitimleri</li>
+        <ul>
+            <li>React Native</li>
+            <ul>
+                <li>Android</li>
+                <li>IOS</li>
+            </ul>
+            <li>Flutter</li>
+        </ul>
+    </ul>
+    <br>
+    <h2 id="yonlendirme">Sayfa İçi Yönlendirme</h2>
+    <p>
+        Aynı web sayfası içinde veya farklı sayfalar içindeki belirli (id veya name ile isimlendirilmiş) bölümlere # sembolü kullanarak yönlendirme (link) yapabiliriz. 
+    </p>
+    <a href="#listeleme">Başa Dön</a>
+</body>
+</html>

@@ -1,0 +1,17 @@
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\bin\Debug\net7.0-windows\WinFormsApp.Sozluk.exe
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\bin\Debug\net7.0-windows\WinFormsApp.Sozluk.deps.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\bin\Debug\net7.0-windows\WinFormsApp.Sozluk.runtimeconfig.json
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\bin\Debug\net7.0-windows\WinFormsApp.Sozluk.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\bin\Debug\net7.0-windows\WinFormsApp.Sozluk.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.csproj.AssemblyReference.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.Form1.resources
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.csproj.GenerateResource.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.AssemblyInfoInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.AssemblyInfo.cs
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\refint\WinFormsApp.Sozluk.dll
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.pdb
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\WinFormsApp.Sozluk.genruntimeconfig.cache
+C:\VS-Net-2022\WinForms\WinFormsApp.Sozluk\WinFormsApp.Sozluk\obj\Debug\net7.0-windows\ref\WinFormsApp.Sozluk.dll

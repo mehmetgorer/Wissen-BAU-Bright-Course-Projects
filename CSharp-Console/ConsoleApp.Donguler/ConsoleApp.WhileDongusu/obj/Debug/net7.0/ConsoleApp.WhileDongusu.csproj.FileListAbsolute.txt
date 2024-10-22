@@ -1,0 +1,15 @@
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\bin\Debug\net7.0\ConsoleApp.WhileDongusu.exe
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\bin\Debug\net7.0\ConsoleApp.WhileDongusu.deps.json
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\bin\Debug\net7.0\ConsoleApp.WhileDongusu.runtimeconfig.json
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\bin\Debug\net7.0\ConsoleApp.WhileDongusu.dll
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\bin\Debug\net7.0\ConsoleApp.WhileDongusu.pdb
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.csproj.AssemblyReference.cache
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.AssemblyInfoInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.AssemblyInfo.cs
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.csproj.CoreCompileInputs.cache
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.dll
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\refint\ConsoleApp.WhileDongusu.dll
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.pdb
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ConsoleApp.WhileDongusu.genruntimeconfig.cache
+C:\VS-Net-2022\Console\ConsoleApp.Donguler\ConsoleApp.WhileDongusu\obj\Debug\net7.0\ref\ConsoleApp.WhileDongusu.dll

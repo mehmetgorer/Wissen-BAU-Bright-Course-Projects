@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Css Öncelikleri - Kalıtım (Inheritance)</title>
+    <link rel="icon" href="../images/favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" />
+
+    <style>
+        #baslik {color: green}
+        h1 {color:red;}
+        h1 {font-size: 30px;}
+        .steelblue { color: steelblue}
+/*
+    Css Öncelikleri
+    - Öncelikle html elementlerinin bazı özelliklerinin tarayıcılardan dolayı default değerleri vardır.
+    - Yeni tanımlanan Css özellikleriyle yeni değerler verdikçe eskilerinin üzeri çizilir böylece ezilmiş olurlar, kullanılmazlar.
+    - Eğer Css tanımları farklı özelliklerle ilgiliyse sorun olmaz ve hepsi sırayla (cascade) uygulanır.
+    - Aynı özelliklere farklı değerler verilirse, Css öncelik sırasına bakılır, aynı önceliğe sahip olanlarda sonradan gelen öncekini ezer.
+    - Css Öncelik Sırası
+        - Inline Style Css
+        - Id selectors
+        - Class selectors
+        - Tag selectors
+        - Browser Defaults
+
+    Kalıtım - Inheritance
+    - Html elementlerinin özellikleri (property) inherited (kalıtılabilen) ve non-inherited olmak üzere ikiye ayrılır.
+    - Örneğin color, font-family gibi özellikler inherited iken, border gibi özellikler non-inherited grubuna girer.
+    - Bu nedenle color özelliği bir kapsayıcı elementten içerdeki elementlere aktarılabilirken, border gibi özellikler içerdeki elementler tarafından uygulanmayacaktır.
+    - Eğer inherited olan bir özelliğin içerideki etiketlere aktarılmasını istemezsek, içerideki etiketlerin bu özelliğine initial değerini vermemiz gerekir.
+    - Tersi olarak non-inherited olan etiketlerin özelliğinin altındaki etiketlere uygulanması için, aynı özelliklerine inherit değerini atamamız gerekir.   
+*/
+        p {color:blue}
+        p {border: 2px solid red}
+        em {border: inherit}
+        em {color: initial}
+    </style>
+</head>
+<body>
+    <h1 id="baslik" class="steelblue" style="color:chocolate">Css Öncelikleri</h1>
+<p>
+    Lorem ipsum dolor sit amet consectetur adipisicing elit. Est assumenda obcaecati, accusamus tempora sed autem accusantium quo itaque quas? Accusamus molestiae incidunt nobis tempore, est optio nostrum iste magnam illum.
+</p>
+<i class="fa-solid fa-star"></i><h2>Css Kalıtım - Inheritance</h2>
+<p>Lorem ipsum dolor sit <em>amet consectetur</em>, adipisicing elit.</p><i class="fa-solid fa-star"></i>
+    
+</body>
+</html>

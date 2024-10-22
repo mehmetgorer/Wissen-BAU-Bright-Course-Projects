@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Display - Visibility</title>
+<style>
+    #box1 {
+        background-color: steelblue;
+    }
+    #box2 {
+        background-color: rgb(212, 248, 81);
+        /* display: none; */
+        /* elemanın görüntüsü ve aynı zamanda konumu kaybolur, sağdakiler sola doğru kayar. */
+        visibility: hidden;
+        /* elemanın görüntüsü kaybolur (gizlenir), ancak yeri korunur. */
+    }    
+    #box3 {
+        background-color: rgb(180, 120, 70);
+    }
+    .box {
+        width: 150px;
+        height: 150px;
+        display: inline-block;
+    }
+    /* 
+    -inline elementler içlerindeki bilgi kadar yer kaplarlar, yükseklik ve genişlik değeri verilemez. 
+    - Not : Kutular arasında 1 px boşluk kalabiliyor, ancak element (div) tanımları yan yana yazıldığında bu boşluk kalkıyor. 
+    */
+    a {
+        display: block;
+        padding: 15px;
+    }
+</style>
+</head>
+<body>
+    <!-- Display -> none, block, inline, inline-block -->
+    <div id="box1" class="box">
+        Kutu-1
+    </div><div id="box2" class="box">
+        Kutu-2
+    </div><div id="box3" class="box">
+        Kutu-3
+    </div>
+
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Contact</a>
+        <a href="#">About</a>
+    </nav>
+</body>
+</html>
