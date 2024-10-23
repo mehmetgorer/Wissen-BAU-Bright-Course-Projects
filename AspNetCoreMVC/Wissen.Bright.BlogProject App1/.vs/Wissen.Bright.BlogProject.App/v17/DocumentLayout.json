@@ -1,0 +1,973 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\controllers\\articlecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\article\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\article\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.dataaccess\\contexts\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.bright.blogproject.app.dataaccess\\contexts\\blogdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\unitofworks\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\unitofworks\\iunitofworks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\entities\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\shared\\components\\category\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\shared\\components\\tags\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\shared\\components\\tags\\default.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\shared\\_layout_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\shared\\_layout_blog.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\viewcomponents\\categoryviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\viewcomponents\\tagsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\viewcomponents\\tagsviewcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\services\\icategoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\services\\iarticleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\services\\articleservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\article\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\services\\accountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\services\\iaccountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\extensions\\dependencyextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\mapping\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\entities\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\services\\tagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\entities\\article.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\repositories\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\services\\itagservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\entities\\tag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47868A74-75E3-401E-962B-2E4BF924C03F}|Wissen.Bright.BlogProject.App.Service\\Wissen.Bright.BlogProject.App.Service.csproj|solutionrelative:wissen.bright.blogproject.app.service\\services\\commentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\services\\icommentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\commentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\entities\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\tagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\tagviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.dataaccess\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.bright.blogproject.app.dataaccess\\unitofworks\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\controllers\\rolecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\editroleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\usersinoroutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\usersinoroutviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\userviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.dataaccess\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.bright.blogproject.app.dataaccess\\identity\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\roleviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\role\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\home\\userlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\areas\\admin\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\wwwroot\\themes\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\wwwroot\\themes\\login.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4EFF0899-7ADA-45C8-92C7-69DC93DD507F}|Wissen.Bright.BlogProject.App.Entity\\Wissen.Bright.BlogProject.App.Entity.csproj|solutionrelative:wissen.bright.blogproject.app.entity\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.webmvcui\\wwwroot\\themes\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{10BC6D7E-037B-4918-9910-2775C79AB84A}|Wissen.Bright.BlogProject.App.WebMvcUI\\Wissen.Bright.BlogProject.App.WebMvcUI.csproj|solutionrelative:wissen.bright.blogproject.app.webmvcui\\wwwroot\\themes\\single.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.dataaccess\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.bright.blogproject.app.dataaccess\\identity\\approle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|c:\\users\\mehme\\desktop\\projects bright\\aspnetcoremvc\\wissen.bright.blogproject (1).app\\wissen.bright.blogproject.app.dataaccess\\migrations\\20231001091227_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06512C-1BE1-4D22-83D1-F5E71FF09F59}|Wissen.Bright.BlogProject.App.DataAccess\\Wissen.Bright.BlogProject.App.DataAccess.csproj|solutionrelative:wissen.bright.blogproject.app.dataaccess\\migrations\\20231001091227_init2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.286Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ICategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Services\\ICategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Tags\\Default.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Tags\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Tags\\Default.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Tags\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.545Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Program.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Program.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Program.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IUnitOfWorks.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWorks.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWorks.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWorks.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\UnitOfWorks\\IUnitOfWorks.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAnwAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.565Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BlogDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Contexts\\BlogDbContext.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.DataAccess\\Contexts\\BlogDbContext.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Contexts\\BlogDbContext.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.DataAccess\\Contexts\\BlogDbContext.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAA4AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\appsettings.json",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\appsettings.json",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\appsettings.json",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-21T20:38:03.581Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArticleController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\ArticleController.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAEIAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Controllers\\AccountController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAAABQAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Create.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.603Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Details.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Details.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Details.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Details.cshtml",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAjwBUAAABJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.614Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAnwBoAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Default.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\Components\\Category\\Default.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Entities\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "IArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Services\\IArticleService.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAEwA0AAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\CategoryViewComponent.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\CategoryViewComponent.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\CategoryViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_Layout_Blog.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout_Blog.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout_Blog.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout_Blog.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout_Blog.cshtml",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAAAH4AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "TagsViewComponent.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\TagsViewComponent.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\TagsViewComponent.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\TagsViewComponent.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\ViewComponents\\TagsViewComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AccountService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\AccountService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Services\\AccountService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\AccountService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Services\\AccountService.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAHMAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "MappingProfile.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Mapping\\MappingProfile.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAiwBgAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ArticleService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Services\\ArticleService.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Category.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Category.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Category.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Category.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20231001091227_init2.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Migrations\\20231001091227_init2.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.DataAccess\\Migrations\\20231001091227_init2.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Migrations\\20231001091227_init2.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.DataAccess\\Migrations\\20231001091227_init2.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Article\\Index.cshtml",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.7Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IAccountService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Services\\IAccountService.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABcAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.707Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Repositories\\IRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAQwA8AAACkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.714Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "DependencyExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Extensions\\DependencyExtensions.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAUwD0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.72Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ITagService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ITagService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Services\\ITagService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ITagService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Services\\ITagService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Article.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Article.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Article.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Article.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Article.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAowBMAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.785Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Tag.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Tag.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.79Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADoAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TagService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\TagService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Services\\TagService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\TagService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Services\\TagService.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA4wCAAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAwwCQAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "CommentService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\CommentService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Service\\Services\\CommentService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Service\\Services\\CommentService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Service\\Services\\CommentService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAawCMAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "ICommentService.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Services\\ICommentService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "CommentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\CommentViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\CommentViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\CommentViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\CommentViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Comment.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Comment.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\Entities\\Comment.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\Entities\\Comment.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "TagViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\TagViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\TagViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\TagViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\TagViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "RoleController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\RoleController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "EditRoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\EditRoleViewModel.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.DataAccess\\UnitOfWorks\\UnitOfWork.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAABcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.861Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Index.cshtml",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACMAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UserViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UserViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAswBcAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UsersInOrOutViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\UsersInOrOutViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.882Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RoleViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RoleViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAswAwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Role\\Create.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "login.html",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\login.html",
+              "ViewState": "AQIAAJMAAAAAAAAAAAAAALAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T20:38:03.909Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAABkAAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "UserList.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\UserList.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.919Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Areas\\Admin\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.Entity\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAADwvxUAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAAC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-21T20:38:03.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "single.html",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.WebMvcUI\\wwwroot\\themes\\single.html",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAAGgBAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-10-21T20:38:03.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "AppRole.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "RelativeDocumentMoniker": "Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "ToolTip": "C:\\Users\\mehme\\Desktop\\Projects Bright\\AspNetCoreMVC\\Wissen.Bright.BlogProject (1).App\\Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "RelativeToolTip": "Wissen.Bright.BlogProject.App.DataAccess\\Identity\\AppRole.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T20:38:03.946Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
